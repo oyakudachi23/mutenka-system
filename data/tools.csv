@@ -1,0 +1,7 @@
+slug,name,category,summary,features,price,free_plan,official_url,detail_page,recommended_for
+chatgpt,ChatGPT,AI文章作成,メール文や提案書の下書きを高速で作れる万能AI,"文章作成,要約,翻訳,アイデア出し",月額20ドル〜,あり,https://chatgpt.com,tools/chatgpt.html,文章作成を時短したい個人事業主
+claude,Claude,AI文章作成,長文の整理と自然な文章の調整が得意なAI,"文章作成,長文要約,校正",月額20ドル〜,あり,https://claude.ai,tools/claude.html,丁寧な文章を作りたい人
+gemini,Gemini,AI業務自動化,Google系サービスと連携しやすいAI,"検索連携,文章作成,資料サポート",無料〜,あり,https://gemini.google.com,tools/gemini.html,Google Workspaceを使う小規模チーム
+canva-ai,Canva AI,AI画像作成,画像生成とデザイン作成をまとめて進められるツール,"画像生成,バナー作成,プレゼン作成",無料〜,あり,https://www.canva.com,tools/canva-ai.html,SNS画像やチラシを自作したい人
+notion-ai,Notion AI,AI議事録,メモ整理と議事録の下書きを効率化できるAI,"議事録整理,文章要約,タスク抽出",月額10ドル〜,あり,https://www.notion.com/product/ai,tools/notion-ai.html,会議メモを整える時間を減らしたい人
+microsoft-copilot,Microsoft Copilot,AI資料作成,WordやPowerPoint内で下書き作成を補助するAI,"資料作成,議事録要約,メール下書き",月額30ドル〜,なし,https://www.microsoft.com/microsoft-copilot,tools/microsoft-copilot.html,Microsoft 365中心で働く人
